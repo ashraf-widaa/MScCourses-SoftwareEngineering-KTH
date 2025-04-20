@@ -1,0 +1,22 @@
+
+> Includes final project, lab assignments, and notebooks.
+
+---
+
+### 🛠️ How to Use
+
+- Clone this repo:  
+  `git clone https://github.com/yourusername/NewCourseStructureRepo.git`
+- Navigate to the course folder you're interested in.
+- Each course includes:
+  - `Course_Project`: the main project for the course
+  - `Labs`: weekly or bi-weekly lab exercises
+  - `Notes`: supplementary notes and reports
+
+---
+
+## ✍️ Author
+
+- Name: Ashraf Widaa 
+- MSc Programme: Software Engineering of Distributed Systems @ KTH  
+- GitHub: [ashraf-widaa](https://github.com/ashraf-widaa)
